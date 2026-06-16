@@ -1,5 +1,5 @@
 {
-  "version": "0.2.0",
-  "url": "https://github.com/stiickmann/forge-studio-tester/releases/download/v0.2.0/Forge-Studio-Tester-0.2.0.exe",
-  "notes": "First tester build. Thanks for testing Forge Studio!"
+  "version": "0.2.1",
+  "url": "https://github.com/stiickmann/forge-studio-tester/releases/download/v0.2.1/Forge-Studio-Tester-0.2.1.exe",
+  "notes": "Added Garry's Mod / Source (.smd + .qc) export — props and buildings export straight toward gmod (open the .smd in Crowbar to compile). Exports no longer include the baseplate."
 }
